@@ -3,7 +3,7 @@
 
 ### Описание проекта
 
-```markdown
+
 # ESP8266 Wi-Fi Access Point with Client Info Display
 
 ## Описание
@@ -50,4 +50,4 @@
 ## Лицензия
 
 Этот проект лицензирован под MIT License. См. файл [LICENSE](LICENSE) для получения подробной информации.
-```
+
